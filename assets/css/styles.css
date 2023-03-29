@@ -269,7 +269,7 @@ img {
   text-align: center;
   line-height: 45px;
   color: #fff;
-  /* z-index: 9999; */
+  z-index: 10000;
   font-size: 30px;
   border-radius: 6px;
   border-bottom-width: 2px;
